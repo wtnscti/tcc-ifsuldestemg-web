@@ -1,6 +1,4 @@
-# tcc-ifsuldestemg-web
-
-# TCC - Desenvolvimento Web e Mobile
+# TCC - Desenvolvimento Web e Mobile - IF Suldeste de MG
 
 Trabalho com um dataset de produtos de um e-commerce visando treinar um modelo de aprendizado de máquina para realizar a classificação dos produtos.
 
