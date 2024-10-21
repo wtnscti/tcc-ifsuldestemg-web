@@ -10,7 +10,7 @@ Trabalho com um dataset de produtos de um e-commerce visando treinar um modelo d
   - [Analise de Dados exploratoria com python](https://partner.cloudskillsboost.google/?locale=pt_BR)
 ## Autores
 
-- [@wendeltadeu](https://github.com/wtnscti)
+- [@wendeltadeu](https://www.linkedin.com/in/wendel-tadeu-6b905372/)
 
 ## 🛠 Habilidades
 Python, AI, Machine Learning, Padrões de Projeto, analise de dados, Google Vertex AI, Microsoft Azure Machine Learning, Amazon Sage Maker, Amazon Q, Amazon Bedrock
